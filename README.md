@@ -1,2 +1,5 @@
 # UCL-Libproxy-Redirect-UserScript
- Redirect publication database to libproxy.ucl.ac.uk, save your time for institution acess
+ Automatically redirect academic databases to UCL LibProxy using Tampermonkey UserScript
+
+Click this link to add this UserScript to Tampermonkey: https://raw.githubusercontent.com/yihuanlin/UCL-Libproxy-Redirect-UserScript
+/main/UserScript.js

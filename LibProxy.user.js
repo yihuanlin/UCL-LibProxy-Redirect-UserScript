@@ -47,6 +47,7 @@
 // @match        https://*.apa.org/*
 // @match        https://*.doi.org/*
 // @match        https://ascelibrary.org/*
+// @match        https://*.jneurosci.org/*
 // @match        https://pubmed.ncbi.nlm.nih.gov/*
 // @icon         https://cdn.ucl.ac.uk/indigo/images/favicon.ico
 // @grant        none

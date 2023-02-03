@@ -2,12 +2,11 @@
 // @name         UCL Libproxy Redirect
 // @namespace    http://tampermonkey.net/
 // @version      1
-// @description  Redirect academic databases to libproxy.ucl.ac.uk, save your time for institutional access
+// @description  Automatically redirect available databases to UCL Library Services LibProxy, save your time for institutional access
 // @author       yihuanlin
 // @match        https://*.sciencedirect.com/*
 // @match        https://elsevierelibrary.co.uk/*
 // @match        https://*.elsevier.com/*
-// @match        https://*.webofscience.com/*
 // @match        https://*.nature.com/*
 // @match        https://*.portlandpress.com/*
 // @match        https://*.biomedcentral.com/*

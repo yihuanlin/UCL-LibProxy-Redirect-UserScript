@@ -48,6 +48,7 @@
 // @match        https://ascelibrary.org/*
 // @match        https://*.jneurosci.org/*
 // @match        https://pubmed.ncbi.nlm.nih.gov/*
+// @match        https://scifinder-n.cas.org/*
 // @icon         https://cdn.ucl.ac.uk/indigo/images/favicon.ico
 // @grant        none
 // ==/UserScript==

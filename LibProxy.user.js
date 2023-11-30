@@ -49,7 +49,7 @@
 // @match        https://*.jneurosci.org/*
 // @match        https://pubmed.ncbi.nlm.nih.gov/*
 // @match        https://scifinder-n.cas.org/*
-// @icon         https://cdn.ucl.ac.uk/indigo/images/favicon.ico
+// @icon         https:/yhl.ac.cn/icon/Avatar.png
 // @grant        none
 // ==/UserScript==
 

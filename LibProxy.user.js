@@ -49,6 +49,7 @@
 // @match        https://*.jneurosci.org/*
 // @match        https://pubmed.ncbi.nlm.nih.gov/*
 // @match        https://scifinder-n.cas.org/*
+// @match        https://www.cambridge.org/core/journals/*
 // @icon         https:/yhl.ac.cn/icon/Avatar.png
 // @grant        none
 // ==/UserScript==
